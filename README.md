@@ -1,10 +1,8 @@
-# XAMP
-
-|-eXtremely Advanced Multifactor Program-|
+# XAMP - eXtremely Advanced Multifactor Program
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada ligula iaculis lacus semper efficitur. Ut facilisis nulla ante, in egestas lectus auctor in. Donec dignissim, nulla et vulputate ullamcorper, velit ante tincidunt neque, in volutpat leo neque sagittis metus. Nam cursus quam id mauris fringilla, a volutpat leo consectetur. Praesent ac mauris eget orci.
+**LOREM IPSUM** dolor sit amet, consectetur adipiscing elit. Phasellus malesuada ligula iaculis lacus semper efficitur. Ut facilisis nulla ante, in egestas lectus auctor in. Donec dignissim, nulla et vulputate ullamcorper, velit ante tincidunt neque, in volutpat leo neque sagittis metus. Nam cursus quam id mauris fringilla, a volutpat leo consectetur. Praesent ac mauris eget orci.
 
 ## Screenshoots
 
