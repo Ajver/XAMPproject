@@ -6,6 +6,7 @@
 <br>
 <h3 align="center">e<b>X</b>tremely <b>A</b>dvanced <b>M</b>ultifactor <b>P</b>rogram</h3>
 <br>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -19,6 +20,6 @@
 
 ## Introduction
 
-**XAMP** (e_X_tremely _A_dvanced _M_ultifactor _P_rogram) - is an extension application that contains lots of function closed inside _one_ bigger program. The application created for **Windows** uses the [console command](https://en.wikipedia.org/wiki/Cmd.exe) as navigation.
+**XAMP** (e**X**tremely **A**dvanced **M**ultifactor **P**rogram) - is an extension application that contains lots of function closed inside **one** bigger program. The application created for **Windows** uses the [console command](https://en.wikipedia.org/wiki/Cmd.exe) as navigation.
 
 ## Technologies
