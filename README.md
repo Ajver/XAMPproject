@@ -1,7 +1,6 @@
 <h1 align="center">XAMP</h1>
 <br>
 <p align="center">
-<!--	![logo](https://github.com/DevoxMen/XAMPproject/blob/master/Photos/logo.png)   -->
     <img src="https://github.com/DevoxMen/XAMPproject/blob/master/Photos/logo.png" alt="logo" width="30%">
 </p>
 <br>
@@ -29,6 +28,13 @@
 
 ## Screenshots
 
-![1](https://github.com/DevoxMen/XAMPproject/blob/master/Photos/%231.png)
+<p align="center">
+    <img src="https://github.com/DevoxMen/XAMPproject/blob/master/Photos/%231.png" alt="Photo1">
+</p>
 
-![2](https://github.com/DevoxMen/XAMPproject/blob/master/Photos/2.png)
+<p align="center">
+    <img src="https://github.com/DevoxMen/XAMPproject/blob/master/Photos/2.png" alt="Photo2">
+</p>
+
+## Features
+
