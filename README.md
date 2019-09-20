@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 <!--	![logo](https://github.com/DevoxMen/XAMPproject/blob/master/Photos/logo.png)   -->
-    <img src="https://github.com/DevoxMen/XAMPproject/blob/master/Photos/logo.png" alt="logo">
+    <img src="https://github.com/DevoxMen/XAMPproject/blob/master/Photos/logo.png" alt="logo" width="30%">
 </p>
 <br>
 <h3 align="center">e<b>X</b>tremely <b>A</b>dvanced <b>M</b>ultifactor <b>P</b>rogram</h3>
