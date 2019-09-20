@@ -13,7 +13,7 @@
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Features](#features)
-- [Download & Install](#download-&-install)
+- [Download & Install](#download--install)
 - [Feedback](#feedback)
 - [Site](#site)
 - [License](#license)
