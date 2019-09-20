@@ -11,9 +11,9 @@
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
-- [Screenshoots](#screenshoots)
+- [Screenshots](#screenshots)
 - [Features](#features)
-- [Download&Install](#download&install)
+- [Download & Install](#download-&-install)
 - [Feedback](#feedback)
 - [Site](#site)
 - [License](#license)
@@ -38,3 +38,24 @@
 
 ## Features
 
+Check out all of features on the official project website [here](www.onet.pl).
+
+## Download & Install
+
+- **Download** .zip file from [XAMP's Page](www.onet.pl).
+- **Extract** to any location on Your computer.
+- **Run** .exe from **XAMP** folder.
+
+## Feedback
+
+Feel free to send me feedback on [Facebook](www.facebook.com) or e-mail: **devoxmen@gmail.com**. Features requests are always welcome. :)
+
+## Site
+
+**Check out** the official project ( **XAMP** ) [website](www.google.com) for news, project status and much more..
+
+## License
+
+Copyright (c) DevoxMen. All rights reserved.
+
+Licensed under the [MIT](https://en.wikipedia.org/wiki/MIT_License) license.
