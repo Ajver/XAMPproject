@@ -38,21 +38,21 @@
 
 ## Features
 
-Check out all of features on the official project website [here](www.onet.pl).
+Check out all of features on the official project website [here](https://www.onet.pl/).
 
 ## Download & Install
 
-- **Download** .zip file from [XAMP's Page](www.onet.pl).
+- **Download** .zip file from [XAMP's Page](https://www.onet.pl/).
 - **Extract** to any location on Your computer.
 - **Run** .exe from **XAMP** folder.
 
 ## Feedback
 
-Feel free to send me feedback on [Facebook](www.facebook.com) or e-mail: **devoxmen@gmail.com**. Features requests are always welcome. :)
+Feel free to send me feedback on [Facebook](https://www.facebook.com/) or e-mail: **devoxmen@gmail.com**. Features requests are always welcome. :)
 
 ## Site
 
-**Check out** the official project ( **XAMP** ) [website](www.google.com) for news, project status and much more..
+**Check out** the official project ( **XAMP** ) [website](https://www.google.com/) for news, project status and much more..
 
 ## License
 
